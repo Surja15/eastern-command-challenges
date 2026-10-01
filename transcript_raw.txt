@@ -1,0 +1,67 @@
+Language: en
+[30.0-32.0]  That is my cookie, Alex.
+[32.0-34.5]  Hey, Charlie, your mother's a slob fraud.
+[34.5-36.0]  Tell them this one, Charlie.
+[36.0-37.0]  A slob of the kid.
+[37.0-38.0]  No way.
+[38.0-39.0]  No way.
+[39.0-40.0]  No way.
+[40.0-41.0]  No way.
+[41.0-42.0]  See, look at that.
+[42.0-44.0]  This is sort of a narrowing hole.
+[44.0-45.0]  No way.
+[45.0-46.0]  No way.
+[46.0-47.0]  Oh, that's not fair.
+[47.0-49.0]  Isn't this where my father's in there?
+[49.0-50.0]  No way.
+[50.0-51.0]  No way.
+[51.0-52.0]  No way.
+[52.0-53.0]  No way.
+[53.0-54.0]  No way.
+[54.0-55.0]  No way.
+[55.0-56.0]  No way.
+[56.0-57.0]  No way.
+[57.0-58.0]  No way.
+[58.0-59.0]  No way.
+[59.0-60.0]  No way.
+[60.0-61.0]  No way.
+[61.0-62.0]  No way.
+[62.0-63.0]  No way.
+[63.0-64.0]  No way.
+[64.0-65.0]  No way.
+[65.0-66.0]  No way.
+[66.0-67.0]  No way.
+[67.0-68.0]  No way.
+[68.0-69.0]  No way.
+[69.0-70.0]  No way.
+[70.0-71.0]  No way.
+[71.0-72.0]  No way.
+[72.0-73.0]  No way.
+[73.0-74.0]  No way.
+[74.0-75.0]  No way.
+[75.0-76.0]  No way.
+[76.0-77.0]  No way.
+[77.0-78.0]  No way.
+[78.0-79.0]  No way.
+[79.0-80.0]  No way.
+[80.0-81.0]  No way.
+[81.0-82.0]  No way.
+[82.0-83.0]  No way.
+[83.0-84.0]  No way.
+[84.0-85.0]  No way.
+[85.0-86.0]  No way.
+[86.0-87.0]  No way.
+[87.0-88.0]  No way.
+[118.0-124.0]  to look in the closet, a box where the perfection faces the city of glory.
+[124.0-129.0]  Carve some of the thoughts that you wouldn't want to break.
+[129.0-130.0]  Who would have thought that?
+[130.0-135.0]  You might just be a captain of God's family, a captain of heaven,
+[135.0-139.0]  a new captain of grace, a new captain of grace,
+[139.0-147.0]  a stewardess, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen,
+[177.0-207.0]  a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a queen, a
+[267.0-269.0]  We're all friends.
+[269.0-271.0]  We're friends.
+[271.0-273.0]  Let's close now.
+[273.0-275.0]  We're all friends.
+[275.0-277.0]  We're all friends.
+[277.0-279.0]  We're all friends.
